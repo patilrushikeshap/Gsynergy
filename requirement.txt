@@ -1,0 +1,5 @@
+boto3
+gzip
+io
+pandas
+os
