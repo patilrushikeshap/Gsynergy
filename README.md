@@ -107,11 +107,3 @@ project functionality
 
 
 
-AWS S3 Credentials
-(
-    aws_access_key_id='AKIA5FTZB457NYOBSU2U'
-    aws_secret_access_key='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'
-    region_name = 'ap-south-1'
-    bucket name = gsynergy-bucket
-    directory = data/
-)
